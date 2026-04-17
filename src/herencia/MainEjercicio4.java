@@ -15,3 +15,15 @@ public class MainEjercicio4 {
         bus2.descripcion();
     }
 }
+
+/*
+Ejercicio 4: Transporte y Bus
+
+Aquí utilicé herencia, donde Bus hereda de Transporte.
+
+Se sobrescribió el método descripcion() para agregar la ruta,
+usando super para no repetir código.
+
+Probé con diferentes buses para verificar que muestre la
+capacidad y la ruta correctamente.
+*/

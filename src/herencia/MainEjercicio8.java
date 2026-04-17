@@ -10,3 +10,15 @@ public class MainEjercicio8 {
         System.out.println("Area del circulo: " + c.calcularArea());
     }
 }
+
+/*
+Ejercicio 8: Figura, Rectangulo y Circulo
+
+Aquí apliqué herencia, donde Rectangulo y Circulo heredan de Figura.
+
+Sobrescribí el método calcularArea() en cada clase para que cada
+figura tenga su propia forma de calcular el área.
+
+Probé con un rectángulo y un círculo para verificar que los cálculos
+sean correctos.
+*/

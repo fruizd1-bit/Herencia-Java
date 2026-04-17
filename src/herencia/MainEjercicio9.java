@@ -15,3 +15,16 @@ public class MainEjercicio9 {
         ebook.mostrarInfo();
     }
 }
+
+/*
+Ejercicio 9: Libro y LibroDigital
+
+En este ejercicio utilicé herencia, ya que LibroDigital hereda de Libro.
+
+Se agregó un atributo adicional (tamaño en MB) y se sobrescribió
+el método mostrarInfo() para incluir esta información.
+
+Utilicé super para mostrar primero los datos del libro.
+
+Probé con un libro físico y uno digital.
+*/

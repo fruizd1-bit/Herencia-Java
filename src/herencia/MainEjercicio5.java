@@ -15,3 +15,17 @@ public class MainEjercicio5 {
         gerente.mostrar();
     }
 }
+
+/*
+Ejercicio 5: Empleado y Gerente
+
+En este ejercicio apliqué herencia, ya que Gerente hereda de Empleado.
+
+Sobrescribí el método calcularSalario() para agregar el bono
+al salario del gerente.
+
+El método mostrar() se reutiliza, pero muestra diferente resultado
+gracias a la sobrescritura.
+
+Probé con un empleado normal y un gerente para comparar resultados.
+*/

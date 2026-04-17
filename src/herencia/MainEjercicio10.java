@@ -18,3 +18,21 @@ public class MainEjercicio10 {
         fcr.mostrarCuotas();
     }
 }
+
+/*
+Ejercicio 10: Sistema de Facturación
+
+En este ejercicio apliqué herencia creando FacturaContado y
+FacturaCredito a partir de la clase Factura.
+
+Utilicé encapsulamiento en la clase Cliente usando atributos privados
+y getters.
+
+Sobrescribí el método calcularTotal() para aplicar descuento o recargo
+según el tipo de factura.
+
+También validé que el total no sea negativo.
+
+Probé con una factura al contado y otra a crédito para verificar
+los cálculos y resultados.
+*/

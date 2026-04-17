@@ -15,3 +15,18 @@ public class MainEjercicio3 {
         producto2.mostrar();
     }
 }
+
+/*
+Ejercicio 3: Producto y ProductoPerecedero
+
+En este ejercicio apliqué herencia, ya que ProductoPerecedero
+hereda de Producto.
+
+Agregué un atributo de fecha de vencimiento y un método
+estaVencido() para verificar el estado del producto.
+
+También sobrescribí el método mostrar() para incluir la fecha
+y si el producto está vencido o no.
+
+Probé con un producto vencido y otro vigente.
+*/

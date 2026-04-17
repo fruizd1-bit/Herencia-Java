@@ -17,3 +17,17 @@ public class MainEjercicio2 {
         cuenta.mostrarSaldo();
     }
 }
+
+/*
+Ejercicio 2: Cuenta y CuentaCorriente
+
+Aquí trabajé con herencia, donde CuentaCorriente hereda de Cuenta.
+
+Sobrescribí el método retirar() para permitir sobregiro, validando
+que no se pase del límite permitido.
+
+Utilicé super para reutilizar el método retirar de la clase padre.
+
+Probé retirando dinero dentro del límite y también un caso donde
+se excede, para ver que funcione correctamente.
+*/

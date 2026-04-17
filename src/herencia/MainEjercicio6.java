@@ -15,3 +15,15 @@ public class MainEjercicio6 {
         perro.hacerSonido();
     }
 }
+
+/*
+Ejercicio 6: Animal y Perro
+
+Aquí trabajé con herencia, donde Perro hereda de Animal.
+
+Sobrescribí el método hacerSonido() para que el perro tenga
+un comportamiento diferente.
+
+Probé ambos objetos para ver cómo cambia el resultado dependiendo
+de la clase.
+*/

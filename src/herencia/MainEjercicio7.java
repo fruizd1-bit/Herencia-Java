@@ -15,3 +15,17 @@ public class MainEjercicio7 {
         moto2.mostrarInfo();
     }
 }
+
+/*
+Ejercicio 7: Vehiculo y Moto
+
+En este ejercicio usé herencia, ya que Moto hereda de Vehiculo.
+
+Se agregó un nuevo atributo (cilindrada) y se sobrescribió
+el método mostrarInfo() para incluir este dato.
+
+Utilicé super para mostrar primero la información del vehículo
+y luego la específica de la moto.
+
+Probé con diferentes motos para verificar los datos.
+*/
